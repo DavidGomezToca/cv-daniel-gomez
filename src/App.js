@@ -5,7 +5,7 @@ function App() {
       <div className="Intro">
         <img className="ProfilePic" src="profile.png" alt="profile" />
         <h1>DANIEL GÓMEZ MARÍN</h1>
-        <h3 className="Titulo">TÉCNICO ELÉCTRONICO Y AUTOMÁTICO</h3>
+        <h3 className="Titulo">TÉCNICO ELÉCTRICO Y AUTOMÁTICO</h3>
       </div>
       <div className="HR">
         <hr />

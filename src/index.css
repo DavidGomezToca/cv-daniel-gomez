@@ -21,7 +21,7 @@ p {
 }
 
 h1 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: "Anton";
   font-weight: 10px;
 }
 
@@ -60,7 +60,7 @@ hr {
 }
 
 .SectionTitle {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Anton";
   text-align: center;
   margin-top: 30px;
   color: #101d93;
