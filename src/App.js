@@ -93,9 +93,6 @@ function App() {
           <p>PEDRO RUBIO - <a href="tel:615498552">615 49 85 52</a></p>
         </div>
       </div>
-      {/* <div className="DivBottomArrowRight">
-        <div className="bottom-arrow-right" />
-      </div> */}
     </div>
   );
 }

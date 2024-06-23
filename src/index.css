@@ -21,7 +21,7 @@ p {
 }
 
 h1 {
-  font-family: "Anton";
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: 10px;
 }
 
@@ -142,19 +142,4 @@ a:active {
   border-bottom: 160px solid transparent;
   border-left: 160px solid #0a157e;
   margin-top: -200px;
-}
-
-.DivBottomArrowRight {
-  display: flex;
-  justify-content: right;
-}
-
-.bottom-arrow-right {
-  justify-content: right;
-  width: 0;
-  height: 0;
-  border-top: 60px solid transparent;
-  border-bottom: 60px solid #0a157e;
-  border-right: 200px solid #0a157e;
-  margin-top: 50px;
 }
