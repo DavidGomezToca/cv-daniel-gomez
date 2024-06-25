@@ -29,7 +29,7 @@ function App() {
         </div>
         <div className="ContactSobreMi">
           <img src="icons/correo-electronico.png" alt="correo electronico" className="IconSobreMi" />
-          <a href="mailto:dani:rvmgomez@gmail.com">dani.rvgomez@gmail.com</a>
+          <a href="mailto:dani.rvmgomez@gmail.com">dani.rvgomez@gmail.com</a>
         </div>
         <div className="ContactSobreMi">
           <img src="icons/pdf.png" alt="pdf" className="IconSobreMi" />
